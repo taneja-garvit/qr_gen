@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.cont{
+    width: 400px;
+    margin: 250px 2px 100px 500px;
+    background: #fff;
+    padding: 55px 65px;
+}
+.cont button{
+    padding: 5px;
+    color: black;
+    border: 2px solid black;
+    cursor: pointer;
+    margin: 1px 75px;
+    width: 154px;
+    background-color: rgb(74, 74, 176);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    border-radius: 5px;
+    
+  
+}
+button:hover{
+    background-color: rgb(40, 38, 38);
+}
+.cont p{
+    margin: -30px 1px 5px 80px;
+    padding: -1px;
+    font-weight: 600;
+    font-size: 27px;
+    background-color: white;
+    color: black;
+    font-size: 27px;
+}
+
+.input{
+    width: 225px;
+    height: 30px;
+    background-color: white;
+    margin: 2px px;
+    margin: 10px 40px;
+    border-radius: 3px;
+    color: black;
+  
+  }
+
+#qrimg{
+    width: 140px;
+    height: ;
+    margin: 4px 705px;
+}
